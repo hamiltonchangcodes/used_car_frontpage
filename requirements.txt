@@ -1,5 +1,3 @@
-python
-pip==24.2
 pillow
 streamlit==1.24.1
 numpy
